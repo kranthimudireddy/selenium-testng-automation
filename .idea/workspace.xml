@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cbb66d9-bd05-45fe-becf-8b6f73cedc04" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DFBBrJLCZ5nVz6wFHD3SrFVuax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/kranthi/IdeaProjects/selenium-testng-automation/pom.xml",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.44942528",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/applaudo-ui" />
+      <recent name="$PROJECT_DIR$/applaudo-ui/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/applaudo-ui/src/test" />
+      <recent name="$PROJECT_DIR$/applaudo-api/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/kranthi/IdeaProjects/selenium-testng-automation/applaudo-api/runServiceTests.xml">
+    <configuration name="GenericUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.breakingbad.api.util.GenericUtils" />
+      <module name="applaudo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.breakingbad.api.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericUtils.readProps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applaudo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.breakingbad.api.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.breakingbad.api.util" />
+      <option name="MAIN_CLASS_NAME" value="com.breakingbad.api.util.GenericUtils" />
+      <option name="METHOD_NAME" value="readProps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllCharactersTest.getPortfolio" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applaudo-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.breakingbad.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.breakingbad.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.breakingbad.api.tests.GetAllCharactersTest" />
+      <option name="METHOD_NAME" value="getPortfolio" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kranthi/IdeaProjects/selenium-testng-automation/applaudo-api/runServiceTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applaudo-api" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/applaudo-api/runServiceTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kranthi/IdeaProjects/selenium-testng-automation/applaudo-ui/runServiceTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applaudo-api" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/applaudo-ui/runServiceTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/kranthi/IdeaProjects/selenium-testng-automation/applaudo-api/runServiceTests.xml" />
+        <item itemvalue="TestNG./Users/kranthi/IdeaProjects/selenium-testng-automation/applaudo-ui/runServiceTests.xml" />
+        <item itemvalue="TestNG.GetAllCharactersTest.getPortfolio" />
+        <item itemvalue="TestNG.GenericUtils.readProps" />
+        <item itemvalue="Application.GenericUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cbb66d9-bd05-45fe-becf-8b6f73cedc04" name="Changes" comment="" />
+      <created>1660284819693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660284819693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

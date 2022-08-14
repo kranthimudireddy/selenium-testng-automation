@@ -9,8 +9,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 
 import java.time.Duration;
 
@@ -20,7 +20,7 @@ public class BaseTest {
     private WebDriverWait wait;
     public static final Logger logger = LogManager.getLogger(BasePage.class);
 
-    @BeforeSuite
+    @BeforeClass
     public void beforeSuite() {
         WebDriverManager.chromedriver().setup();
         ChromeOptions chromeOptions = new ChromeOptions();
@@ -37,7 +37,7 @@ public class BaseTest {
         GenericUtils.readProps();
     }
 
-    @AfterSuite
+    @AfterClass
     public void afterSuite() {
         if(null != driver) {
             driver.close();

@@ -23,6 +23,7 @@
             <artifactId>json</artifactId>
             <version>20220320</version>
         </dependency>
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
@@ -42,9 +43,7 @@
             <version>2.18.0</version>
         </dependency>
 
-
     </dependencies>
-
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
